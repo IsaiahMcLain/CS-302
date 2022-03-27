@@ -1,0 +1,70 @@
+Sort time Averages
+
+1000 Size Array
+Unsorted
+Quick Sort: 9151
+    *Swaps: 5696
+    *Comparisons: 10933
+Bubble Sort: 4726
+    *Swaps: 252738
+    *Comparisons: 499500
+Selection Sort: 2932
+    *Swaps: 1000
+    *Comparisons: 499500
+
+Sorted
+Quick Sort: 15796
+    *Swaps: 0
+    *Comparisons: 479522
+Bubble Sort: 2810
+    *Swaps: 0
+    *Comparisons: 499500
+Selection Sort: 2907
+    *Swaps: 0
+    *Comparisons: 499500
+
+10000 Size Array
+Unsorted
+Quick Sort: 95791
+    *Swaps: 113361
+    *Comparisons: 177375
+Bubble Sort: 141090
+    *Swaps: 490846
+    *Comparisons: 49995000
+Selection Sort: 126025
+    *Swaps: 10000
+    *Comparisons: 49995000
+
+Sorted
+Quick Sort: 137696
+    *Swaps: 0
+    *Comparisons: 6278505
+Bubble Sort: 128263
+    *Swaps: 0
+    *Comparisons: 49995000
+Selection Sort: 131696
+    *Swaps: 0
+    *Comparisons: 49995000
+
+100000 Size Array
+Unsorted
+Quick Sort: 599317
+    *Swaps: 1105876
+    *Comparisons: 1979644
+Bubble Sort: 40564059
+    *Swaps: 1876844963 
+    *Comparisons: 704982704
+Selection Sort: 16415010
+    *Swaps: 100000
+    *Comparisons: 704982704
+
+Sorted
+Quick Sort:
+    *Swaps:
+    *Comparisons:
+Bubble Sort:
+    *Swaps:
+    *Comparisons:
+Selection Sort:
+    *Swaps:
+    *Comparisons:
