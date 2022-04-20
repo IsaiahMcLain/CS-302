@@ -1,3 +1,5 @@
+##Not Fully Broken, only issue is with quick sort adding a 0 into the array and overriding the greatest value within the array of values. Other sorts work. 
+
 # Homework 5
 
 ## Project Goals
